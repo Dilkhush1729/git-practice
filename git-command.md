@@ -3,6 +3,8 @@
 
  2. git status => status of compelete as comapred to remote repository
     git status --long => detailed status of local repository
+    git status -b => branch status
+    
 
  3. git log => track all commits 
     git log --oneline => short and concise view of commits
@@ -15,7 +17,7 @@
     git restore --staged git.txt => move the files from staged to modified state
 
  6. git commit -m "message" => commit your changes from staged state
-    git commit -a -m "message" => commit without moving in the staging area 
+    git commit -a -m "message" => commit without moving in the staging area or staging the files 
 
  7. git remote -v => origin details 
  
