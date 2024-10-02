@@ -6,7 +6,7 @@
 
  3. git log => track all commits 
     git log --oneline => short and concise view of commits
-    git log --patch 1 => details of a commit 
+    git log --patch -1 => details of a commit 
 
  4. git add git.txt => modified to staged state
     git add . => move all the files to staged state
