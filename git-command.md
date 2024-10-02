@@ -21,7 +21,7 @@
 
  7. git remote -v => origin details 
  
- 8. git push --set-upstream origin branch-3 => 
+ 8. git push --set-upstream origin branch-name => push a new local branch to a remote repository and set the upstream tracking for that branch. 
  
  
  
