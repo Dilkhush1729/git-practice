@@ -21,7 +21,7 @@
 
  7. git remote -v => origin details 
  
- 
+ 8. git push --set-upstream origin branch-3 => 
  
  
  
