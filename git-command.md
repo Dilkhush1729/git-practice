@@ -14,7 +14,9 @@
  5. git restore git.txt => revert all the changes of a file 
     git restore --staged git.txt => move the files from staged to modified state
 
- 6. 
+ 6. git commit -m "message" => commit your changes from staged state
+
+ 7. git remote -v => origin details 
  
  
  
