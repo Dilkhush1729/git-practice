@@ -23,6 +23,8 @@
  
  8. git push --set-upstream origin branch-name => push a new local branch to a remote repository and set the upstream tracking for that branch. 
  
+ 9. git merge branch-2 => first checkout to that branch-1 you want changes then run ( git merge branch-2 )
+
  
  
   -->
