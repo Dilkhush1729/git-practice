@@ -15,6 +15,7 @@
     git restore --staged git.txt => move the files from staged to modified state
 
  6. git commit -m "message" => commit your changes from staged state
+    git commit -a -m "message" => commit without moving in the staging area 
 
  7. git remote -v => origin details 
  
